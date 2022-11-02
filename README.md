@@ -7,9 +7,11 @@ This repository contains the Code for object detection in open cv using YOLOV4.
 This notebook will walkthrough all the steps for performing YOLOv4 object detections on your webcam while in Google Colab. We will be using scaled-YOLOv4 (yolov4-csp) for this code.
 
 <h1> test Image</h1>
+
 ![download](https://user-images.githubusercontent.com/78837732/199389423-d6e96f07-f982-49a5-ba8d-5644e4e6f060.png)
 
 <h1> camera capture output </h1>
+
 ![download](https://user-images.githubusercontent.com/78837732/199389784-02e39b23-0279-4388-8384-2dd65a2d70b3.jpeg)
 
 
